@@ -65,6 +65,6 @@ text:
 ```
 **Important**: Each block definition has a corresponding partial file named `partials/blocks/content/{block_name}.htm`.  The form data is passed as 'content'.
 
-
+XXX
 
 
